@@ -1,7 +1,7 @@
 
 
 ```package
-Environment = github:elecfreaks/pxt-esp8266iot#v2.3.2
+Environment = github:lasu9698/soil-moisture-tutorial.git
 
 ```
 

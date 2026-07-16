@@ -2,7 +2,7 @@
 
 ```package
 Environment = github:tinkertanker/pxt-iot-environment-kit
-
+OLED = github:tinkertanker/pxt-oled-ssd1306
 
 ```
 

@@ -1,7 +1,7 @@
 
 
 ```package
-Environment = github:lasu9698/soil-moisture-tutorial.git
+Environment = github:lasu9698/soil-moisture-tutorial/pxt-iot-environment-kit-master
 
 ```
 
